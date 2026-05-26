@@ -1,5 +1,5 @@
 {
-  "name": "stylingod-function",
+  "name": "theaudiencereport-function",
   "version": "1.0.0",
   "scripts": {
     "start": "(cd .. && npx wrangler pages dev .)"
